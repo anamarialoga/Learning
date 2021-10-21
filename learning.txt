@@ -12,3 +12,6 @@ see commits -> git log
 
 restore changes to the last commit ->
 git restore FILENAME
+
+see the status of files -> staged/not staged 
+git status
