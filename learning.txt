@@ -1,2 +1,14 @@
+git init -> new repository folder .git
+
 staging -> storage area where we store files that are going to be commited; 
-git add FILENAME
+- modified files/new files that weren't added into staging yet need to be added with: 
+git add FILE_NAME
+git add -all
+
+commiting -> saving 
+git commit -m "COMMIT_NAME"
+
+see commits -> git log
+
+restore changes to the last commit ->
+git restore FILENAME
