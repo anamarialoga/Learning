@@ -1,0 +1,2 @@
+staging -> storage area where we store files that are going to be commited; 
+git add FILENAME
